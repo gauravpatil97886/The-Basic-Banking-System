@@ -3,10 +3,6 @@
 ------------------------
 
 ### **Sparks Foundation Internship Project : Basic Banking System**
-- Task Name: Basic Banking System
-- Frontend: #HTML, #CSS, #JavaScript
-- Backend: #PHP
-- Database: #MySQL (XAMPP Server)
 
 
 - A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.
@@ -20,6 +16,7 @@
  ## About Project and working
  
  ----------------------
+ 
 - The PHP-based Bank Management System project was created. This is a straightforward project that is very simple to use. Speaking of the system, it has all the necessary features, such as the ability to Create Account, Add Amount, Delete Account, Update Data, Transfer Money, etc. A person must include their first and last names, gender, address, and contact information while adding their account. 
 
 - If the user so chooses, he or she may also edit the bank account. The system displays a list view of the bank information. Additionally, the user may erase any bank account with ease.
