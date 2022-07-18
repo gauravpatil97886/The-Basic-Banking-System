@@ -3,6 +3,10 @@
 ------------------------
 
 ### **Sparks Foundation Internship Project : Basic Banking System**
+- Task Name: Basic Banking System
+- Frontend: #HTML, #CSS, #JavaScript
+- Backend: #PHP
+- Database: #MySQL (XAMPP Server)
 
 
 - A Web Application used to transfer money between multiple users (Project contains 10 dummy users). A dummy user can also be created.
